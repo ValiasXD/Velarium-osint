@@ -37,12 +37,7 @@
 - `datacollect -l <links>` — Accepts user-supplied data for analysis  
 - `datacollect -p` — Export PDF/JSON report  
 - `datacollect -a` — All-in-one (username, email, IP, image, breach)
-
-### 🧠 AI-Powered OSINT (Optional)
-- Summarizes findings  
-- Tags potential risks  
-- Extracts patterns or warnings  
-
+ 
 ### 🧾 Reporting
 - Export to PDF / JSON / HTML  
 - Rich output tables using `tabulate`, `rich`  
