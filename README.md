@@ -52,7 +52,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Val/velarium-osint.git
+git clone
+https://github.com/ValiasXD/Velarium-osint.git 
 cd velarium-osint
 pip install -r requirements.txt
 python Velarium.py 
